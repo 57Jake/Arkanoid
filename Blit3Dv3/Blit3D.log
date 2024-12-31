@@ -1,0 +1,6 @@
+[2024-12-31 14:15:05][Info]	Context reports FSAA is available with 8samples
+[2024-12-31 14:15:05][Info]	Requesting FSAA with 8samples
+[2024-12-31 14:15:05][Info]	1 monitor detected.
+[2024-12-31 14:15:05][Info]	Renderer: Intel(R) UHD Graphics
+[2024-12-31 14:15:05][Info]	OpenGL version supported: 4.6.0 - Build 27.20.100.8190
+[2024-12-31 14:15:05][Info]	Creating TextureManager with 31 maximum bound textures
