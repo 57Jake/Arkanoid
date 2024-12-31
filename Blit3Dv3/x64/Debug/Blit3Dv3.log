@@ -1,0 +1,55 @@
+﻿  BallEntity.cpp
+  AngelcodeFont.cpp
+  BFont.cpp
+  Blit3D.cpp
+  ByteSwap.cpp
+  glslprogram.cpp
+  glutils.cpp
+  Logger.cpp
+  RenderBuffer.cpp
+  ShaderManager.cpp
+  Sprite.cpp
+  TextureManager.cpp
+  BrickEntity.cpp
+  Entity.cpp
+  main.cpp
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(89,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(98,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(110,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(203,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(203,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(250,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(401,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\main.cpp(542,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MyContactListener.cpp
+  PaddleEntity.cpp
+  Physics.cpp
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Physics.cpp(5,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Physics.cpp(5,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Physics.cpp(12,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Physics.cpp(17,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Physics.cpp(22,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Physics.cpp(27,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Physics.cpp(32,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PowerUpEntity.cpp
+  Generating Code...
+  glew.c
+  context.c
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Blit3DBaseFiles\GLFW\context.c(377,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Blit3DBaseFiles\GLFW\win32_monitor.c(68,5): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\Blit3Dv3\Blit3DBaseFiles\GLFW\win32_monitor.c(77,9): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  win32_time.c
+  win32_tls.c
+  win32_window.c
+  window.c
+  Generating Code...
+  Blit3Dv3.vcxproj -> C:\Users\hache\Downloads\PowerUps_CollisionMasking 2024\x64\Debug\Blit3Dv3.exe
